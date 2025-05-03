@@ -21,4 +21,4 @@ Designed KPIs such as:
   total sales, 
   total profit, 
   total quantity sold, 
-  and average delivery time to track business performance.
+  and average delivery time to track business performance. 
