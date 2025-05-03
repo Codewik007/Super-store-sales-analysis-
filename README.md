@@ -1,4 +1,4 @@
-Project: Super store Sales & Profitability Analysis using Power BI
+Project: Super store Sales & Profitability Analysis using Power BI:
 
 Developed an interactive Power BI dashboard to analyze sales, profit, and key business metrics.
 Implemented data visualization techniques to present insights on product categories, customer segments, and shipping methods.
