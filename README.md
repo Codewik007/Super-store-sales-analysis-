@@ -18,4 +18,4 @@ Created a state-wise sales and profit map
 to highlight high-performing regions.
 
 Designed KPIs such as: 
-total sales, total profit, total quantity sold, and average delivery time to track business performance.
+  total sales, total profit, total quantity sold, and average delivery time to track business performance.
