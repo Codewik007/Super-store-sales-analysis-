@@ -14,5 +14,6 @@ Conducted month-over-month sales
 and month-over-month profit comparisons 
 for two years to identify growth trends.
 
-Created a state-wise sales and profit map to highlight high-performing regions.
+Created a state-wise sales and profit map
+to highlight high-performing regions.
 Designed KPIs such as total sales, total profit, total quantity sold, and average delivery time to track business performance.
